@@ -1,1 +1,2 @@
-Thsi is the new file
+Thsi is the new file1
+a new line
