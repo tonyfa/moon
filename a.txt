@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Thsi is the new file2
 a new line
 also new line by the online editor
-=======
 Thsi is the new file
->>>>>>> parent of f6ec8ea (Update a.txt)
